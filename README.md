@@ -1,8 +1,5 @@
 
-# Github and git conflict
-
-
-# Github and git 
+# github and git 
 
 Travis Preston
 GQ0814
